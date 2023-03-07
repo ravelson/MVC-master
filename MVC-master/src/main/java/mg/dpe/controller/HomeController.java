@@ -7,7 +7,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController {
     @RequestMapping (value = "/")
     public String home(){
+        if  else
         return "test";
+        
     }
     //Ravelson added this
+    //checkin from RavelsonTahina
 }
