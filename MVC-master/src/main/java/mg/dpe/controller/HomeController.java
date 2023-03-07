@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController {
     @RequestMapping (value = "/")
     public String home(){
-        if  else
+        if i<0 else
         return "test";
         
     }
